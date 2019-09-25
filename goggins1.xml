@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Say voice="alice">This message is brought to you by David Goggins: </Say>
+    <Play>https://motivationdialler.s3.amazonaws.com/goggins1.mp3</Play>
+</Response>
